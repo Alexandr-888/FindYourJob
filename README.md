@@ -1,4 +1,4 @@
-# findYourJob
+# findyourjob
 Учебный
 Проект выполнил: Александр
 
